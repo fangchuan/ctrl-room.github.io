@@ -1,8 +1,8 @@
-# Nerfies
+# Ctrl-Room
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Ctrl-Room website](https://fangchuan.github.io/ctrl-room.github.io/).
 
-If you find Nerfies useful for your work please cite:
+If you find Ctrl-Room useful for your work please cite:
 ```
 @article{park2021nerfies
   author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
